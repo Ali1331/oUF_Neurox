@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: oUF_Neurox
+## Author: Neurox
+## Version: 1
+## Notes: oUF layout.
+## Dependencies: oUF
+
+layout.lua
